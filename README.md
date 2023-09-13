@@ -8,3 +8,6 @@ https://www.physi.uni-heidelberg.de/Einrichtungen/AP/info/Corona/PAP1_2023.php
 - Take care with the burner + alcohol
 - Eyes and hand care
 - Superconductivity show?
+- Fill the containers until the gas thermometer can be under the liquid. Not too much, otherwise it can take lots of time for heating up.
+- Be careful after using the heater with the heater (many burned gloves already)
+- All the liquids go back to the same place they where picked up (dry ice + alcohol, liquid nitrogen)
